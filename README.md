@@ -7,7 +7,7 @@
 - **Programlama Dilleri:** Python, C, C++, Java  
 
 ## 🌟 Projelerim
-- 🚧 *Projeler üzerinde aktif olarak çalışıyorum. Yakında burada paylaşacağım!*  
+- 🚧 *Projeler üzerinde aktif olarak çalışıyorumm. Yakında burada paylaşacağım!*  
 
 ## 🎓 Eğitim
 - 🏫 **Karadeniz Teknik Üniversitesi**, Yazılım Mühendisliği  
