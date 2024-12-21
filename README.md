@@ -1,16 +1,18 @@
-## Hi there 👋
+# Merhaba, ben Yusuf 👋
 
-<!--
-**YusufKurt00/YusufKurt00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Yazılım Mühendisliği öğrencisiyim  
+- 💻 **Uzmanlık Alanlarım:** Python, Java, Data Science, Web Scraping  
 
-Here are some ideas to get you started:
+## 🛠 Becerilerim
+- **Programlama Dilleri:** Python, C, C++, Java  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projelerim
+- 🚧 *Projeler üzerinde aktif olarak çalışıyorum. Yakında burada paylaşacağım!*  
+
+## 🎓 Eğitim
+- 🏫 **Karadeniz Teknik Üniversitesi**, Yazılım Mühendisliği  
+
+## 📫 Bana Ulaşın
+- 📧 **E-posta:** [Yusuf_kurt23@hotmail.com](mailto:Yusuf_kurt23@hotmail.com)  
+- 💼 **LinkedIn:** [Yusuf KURT](https://www.linkedin.com/in/yusufkurt000/)  
+- 💻 **GitHub:** [YusufKurt00](https://github.com/YusufKurt00)
