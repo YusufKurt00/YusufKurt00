@@ -7,7 +7,7 @@
 - **Programlama Dilleri:** Python, C, C++, Java
 
 ## 🌟 Projelerim
-- [ContactScraper 🔍](https://github.com/YusufKurt/ContactScraper)  
+- [ContactScraper 🔍](https://github.com/YusufKurt00/ContactScraper)  
   **Web Scraping Otomasyonu** | Python  
 
 ## 🎓 Eğitim
