@@ -4,7 +4,7 @@
 - 💻 **Uzmanlık Alanlarım:** Python, Java, Data Science, Web Scraping  
 
 ## 🛠 Becerilerim
-- **Programlama Dilleri:** Python, C, C++, Java
+- **Programlama Dilleri:** Python, C/C++, Java
 
 ## 🌟 Projelerim
 - [ContactScraper 🔍](https://github.com/YusufKurt00/ContactScraper)  
